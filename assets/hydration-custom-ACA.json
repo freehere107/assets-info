@@ -1,0 +1,17 @@
+{
+  "TokenID": "1000099",
+  "TokenSymbol": "ACA",
+  "Logo": "../logos/hydration_custom_ACA.png",
+  "Description (en)": "ACA is the native token of Acala, a decentralized finance hub and stablecoin platform powering the aUSD ecosystem on Polkadot",
+  "Description (zh)": "",
+  "Website Link": "https://acala.network/",
+  "Twitter Link": "https://twitter.com/AcalaNetwork",
+  "Telegram Link": "",
+  "Discord Link": "",
+  "Medium Link": "",
+  "Github Link": "",
+  "Category": "custom",
+  "Coingecko API ID": "acala",
+  "Risk": "normal",
+  "Network": "hydration"
+}
